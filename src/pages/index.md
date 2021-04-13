@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Valera Elisan Optometric Clinic
-    subtitle: Optional hero section subtitle
+    subtitle: We care for your eyes
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
