@@ -4,12 +4,10 @@ sections:
   - type: hero_section
     title: Valera Elisan Optometric Clinic
     subtitle: We care for your eyes
-    content: >+
-
-      Your VISION and EYE HEALTH are our primary focus.Vision related tests are
-      available here.Other eye related tools/accessories like EYEGLASSES and
+    content: >
+      Your VISION and EYE HEALTH are our primary focus. Vision related tests are
+      available here. Other eye related tools/accessories like EYEGLASSES and
       CONTACT LENSES are also available in our clinic.
-
     actions:
       - label: Try Free
         url: /pricing
